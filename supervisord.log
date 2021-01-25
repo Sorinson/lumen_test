@@ -1,0 +1,54 @@
+2021-01-19 15:57:04,914 CRIT Supervisor running as root (no user in config file)
+2021-01-19 15:57:04,920 INFO supervisord started with pid 15
+2021-01-19 15:57:05,923 INFO spawned: 'nginx' with pid 18
+2021-01-19 15:57:05,924 INFO spawned: 'php-fpm' with pid 19
+2021-01-19 15:57:06,952 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:57:06,954 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:58:07,115 CRIT Supervisor running as root (no user in config file)
+2021-01-19 15:58:07,122 INFO supervisord started with pid 15
+2021-01-19 15:58:08,124 INFO spawned: 'nginx' with pid 18
+2021-01-19 15:58:08,126 INFO spawned: 'php-fpm' with pid 19
+2021-01-19 15:58:09,155 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:58:09,157 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:58:39,817 CRIT Supervisor running as root (no user in config file)
+2021-01-19 15:58:39,823 INFO supervisord started with pid 16
+2021-01-19 15:58:40,827 INFO spawned: 'nginx' with pid 19
+2021-01-19 15:58:40,830 INFO spawned: 'php-fpm' with pid 20
+2021-01-19 15:58:41,873 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:58:41,875 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:59:01,480 CRIT Supervisor running as root (no user in config file)
+2021-01-19 15:59:01,485 INFO supervisord started with pid 16
+2021-01-19 15:59:02,487 INFO spawned: 'nginx' with pid 19
+2021-01-19 15:59:02,489 INFO spawned: 'php-fpm' with pid 20
+2021-01-19 15:59:03,519 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:59:03,520 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:59:31,094 CRIT Supervisor running as root (no user in config file)
+2021-01-19 15:59:31,099 INFO supervisord started with pid 16
+2021-01-19 15:59:32,102 INFO spawned: 'nginx' with pid 19
+2021-01-19 15:59:32,106 INFO spawned: 'php-fpm' with pid 20
+2021-01-19 15:59:33,140 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 15:59:33,140 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:00:18,188 CRIT Supervisor running as root (no user in config file)
+2021-01-19 16:00:18,193 INFO supervisord started with pid 15
+2021-01-19 16:00:19,196 INFO spawned: 'nginx' with pid 18
+2021-01-19 16:00:19,198 INFO spawned: 'php-fpm' with pid 19
+2021-01-19 16:00:20,237 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:00:20,238 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:16:28,800 CRIT Supervisor running as root (no user in config file)
+2021-01-19 16:16:28,806 INFO supervisord started with pid 16
+2021-01-19 16:16:29,808 INFO spawned: 'nginx' with pid 19
+2021-01-19 16:16:29,811 INFO spawned: 'php-fpm' with pid 20
+2021-01-19 16:16:30,874 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:16:30,875 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:25:51,665 CRIT Supervisor running as root (no user in config file)
+2021-01-19 16:25:51,670 INFO supervisord started with pid 17
+2021-01-19 16:25:52,672 INFO spawned: 'nginx' with pid 20
+2021-01-19 16:25:52,674 INFO spawned: 'php-fpm' with pid 21
+2021-01-19 16:25:53,712 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:25:53,712 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:29:27,691 CRIT Supervisor running as root (no user in config file)
+2021-01-19 16:29:27,696 INFO supervisord started with pid 17
+2021-01-19 16:29:28,698 INFO spawned: 'nginx' with pid 20
+2021-01-19 16:29:28,700 INFO spawned: 'php-fpm' with pid 21
+2021-01-19 16:29:29,742 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-19 16:29:29,743 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
